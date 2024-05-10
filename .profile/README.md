@@ -1,3 +1,0 @@
-- [backend](https://github.com/BelLaTura/bellatura_backend) - TS, Nest, TypeORM, MySQL
-- [frontend](https://github.com/BelLaTura/bellatura_frontend) - TS, Next, React, CSS, HTML
-- [favicons](https://github.com/BelLaTura/bellatura_favicons) - favicons (mstile, apple, android, safari), webmanifest, browserconfig
